@@ -3,7 +3,7 @@ git clone https://github.com/marian876/scantec.git
 
 cd scantec
 
-python -m venv scantec
+py -m venv scantec
 
 .\scantec\Scripts\activate
 
